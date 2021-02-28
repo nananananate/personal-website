@@ -20,7 +20,7 @@ Web: http://tisuela.com
 
 Maintained, troubleshooted, and deployed over 100 machines.
   - Inspected and repaired XML documents to recover research, saving 3 weeks of work for students
-  - Developed powershell scripts to create technical reports and deploy for over 100 machines. This automation makes weekly tasks 3 times faster.
+  - Wrote powershell scripts to create technical reports and deploy for over 100 machines. This automation makes weekly tasks 3 times faster.
   - Authored easy-to-follow guides to teach new softwares to over 100 users.
   - Debugged Python software to resume monitoring of utilities in dozens of on-campus facilities.
 
@@ -50,9 +50,7 @@ Created a Web/Python API for developing course discovery apps.
 
   - Launched CourseCake to become the most active cross-campus API supporting GraphQL and REST endpoints, cataloguing thousands of classes.
 
-  - Publicized CourseCake through easy-to-understand and interactive documentation, making CourseCake a teachable tool.
-
-  - Developed sensible schemas to model course discovery based on existing course discovery tools.
+  - Designed sensible schemas to model course discovery based on existing course discovery tools.
 
 
 ### *Co-Creator*, [FabFlix](https://github.com/nananananate/fabflix) (2020-01 — 2020-03)
@@ -63,18 +61,7 @@ Demonstrated Full-Stack development in this proof-of-concept movie rental servic
 
   - Deployed app onto GCP and AWS hosting services
 
-  - Implemented a search engine which efficiently returns movies within seconds
-
-
-### *Developer*, [Smoothie Genie](https://github.com/nananananate/smoothiegenie) (2020-01 — 2020-03)
-
-Smoothie Recommendation IOS App
-Developed an iOS app that tracks user nutrition and suggests smoothies
-  - Compiled our nutrtion database (Firebase) through popular nutrition REST APIs
-
-  - Actualized dynamic UI for food information
-
-  - Implemented tracking of food consumtion/nutrtion
+  - Programmed a search engine which efficiently returns movies within seconds
 
 
 
@@ -94,7 +81,6 @@ B.S. in Computer Science
 Delegated event planning and led weekly meetings as first president of Acts @ UCI.
   - With the help of the board, Acts saw membership increase by 200%.
   - Conducted migration to remote meetings and activities due to COVID-19 (maintained majority member retention) through close teamwork with the board and sister clubs.
-  - Designed a new website and established presence on UCI's online system, seeing over 70 student engagements in 2 days during a virtual fair.
   - Coordinated large group events with a team of 6 members, averaging 2 large group events a month both before and after COVID-19
 
 
