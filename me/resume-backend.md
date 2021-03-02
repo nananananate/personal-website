@@ -16,21 +16,13 @@ Web: http://tisuela.com
 
 ## EMPLOYMENT
 
-### *Computer Network Technician*, [Advanced Power and Energy Program](http://apep.uci.edu) (2018-10 — Present)
-
-Maintained, troubleshooted, and deployed over 100 machines.
-  - Inspected and repaired XML documents to recover research, saving 3 weeks of work for students
-  - Wrote powershell scripts to create technical reports and deploy for over 100 machines. This automation makes weekly tasks 3 times faster.
-  - Authored easy-to-follow guides to teach new softwares to over 100 users.
-  - Debugged Python software to resume monitoring of utilities in dozens of on-campus facilities.
-
 ### *Technical Lead*, [StartSmart](https://startsmart.co/) (2020-10 — Present)
 
  Leading back-end development and DevOps in a team of 7 developers
   - Migrated to an AWS Stack of RDS, Elastic Beanstalk, S3, and Amplify, reducing cloud maintenance by 100%
-  - Implemented CI/CD pipelines to automate testing, code scanning, and deployment to AWS services
-  - Spearheaded migration from a monolithic web application to a Django REST back-end and a React front-end
-  - Dockerized applications, vastly improving the efficiency of local development
+  - Implemented CI/CD pipelines to automate testing, code scanning, and deployment to AWS services, making DevOps 2 times more efficient
+  - Spearheaded migration from a monolithic web application to a Django REST back-end and a React front-end, increasing concurrent development 3-fold
+  - Dockerized applications, vastly improving the efficiency of local development by automatically installing dependencies
 
 ### *Projects Committee Member*, [UCI ICS Student Council](https://github.com/icssc-projects) (2020-08 — Present)
 
@@ -38,6 +30,14 @@ Maintained, troubleshooted, and deployed over 100 machines.
   - Implemented GraphQL which simplifies all our REST endpoints into 1 endpoint, making complex queries up to 500% more efficient
   - Created CI/CD pipelines to automated documentation building and testing
   - Identified SQL vulnerabilities
+
+### *Computer Network Technician*, [Advanced Power and Energy Program](http://apep.uci.edu) (2018-10 — Present)
+
+Maintained, troubleshooted, and deployed over 100 machines.
+  - Inspected and repaired XML documents to recover research, saving 3 weeks of work for students
+  - Wrote powershell scripts to create technical reports and deploy for over 100 machines. This automation makes weekly tasks 3 times faster.
+  - Authored easy-to-follow guides to teach new softwares to over 100 users.
+  - Debugged Python software to resume monitoring of utilities in dozens of on-campus facilities.
 
 
 ## PROJECTS
@@ -52,16 +52,7 @@ Created a Web/Python API for developing course discovery apps.
 
   - Designed sensible schemas to model course discovery based on existing course discovery tools.
 
-
-### *Co-Creator*, [FabFlix](https://github.com/nananananate/fabflix) (2020-01 — 2020-03)
-
-Proof-of-concept movie rental service
-Demonstrated Full-Stack development in this proof-of-concept movie rental service
-  - Developed master-slave architecture to effectively load balance over 100 users simultameously renting movies
-
-  - Deployed app onto GCP and AWS hosting services
-
-  - Programmed a search engine which efficiently returns movies within seconds
+  - Deployed using GCP
 
 
 
