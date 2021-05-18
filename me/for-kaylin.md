@@ -7,6 +7,8 @@ date: 2020-09-08
 
 Good job on finding this page! These are some links that I wanted to share with you <3
 
+[WATCH THIS](https://youtu.be/89UreFnv0FM)
+
 Here's a blog that none of my friends know about: 
 [My Dev blog](https://dev.to/nananananate)
 
